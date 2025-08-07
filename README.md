@@ -29,7 +29,7 @@
 - 📈 Strong foundation in `Statistics`, `Mathematics`, and `Communication`
 - 📚 Always learning and exploring tech through projects and research
 - 💼 Open for Internships and Entry-level `Data Science / ML roles`  
-- 📄 [My Resume](#) <!-- Add your Google Drive or website link here -->
+- 📄 [My Resume](https://images.app.goo.gl/UJdb7VLc4WXpPmMeA) <!-- Add your Google Drive or website link here -->
 
 ---
 
